@@ -1,0 +1,13 @@
+streamlit 
+os
+pandas
+pandas_profiling
+streamlit_pandas_profiling 
+st_profile_report
+pycaret
+pycaret.regression 
+setup
+compare_models,
+pull,
+save_model
+
