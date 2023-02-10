@@ -14,7 +14,7 @@ from streamlit_pandas_profiling import st_profile_report
 
 #ML 
 import pycaret
-from pycaret.regression import setup, compare_models, pull, save_model
+from pycaret.regression import setup,pull, save_model
 #st.write("First App")
 #st.write(pd.DataFrame({
 #    'first column':[1,2,3,4],
