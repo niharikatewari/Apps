@@ -7,7 +7,6 @@ st_profile_report
 pycaret
 pycaret.regression 
 setup
-compare_models,
-pull,
+pull
 save_model
 
