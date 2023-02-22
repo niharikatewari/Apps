@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Feb 22 13:57:56 2023
+
+@author: Lab Pc
+"""
+
+streamlit
+matplotlib
+scikit-learn
