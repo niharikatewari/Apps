@@ -14,9 +14,6 @@ image = Image.open(r'tree.jpg')
 
 col1, col2  = st.columns([0.8,0.2])
 with col1:
-    st.markdown("""<style> .font{
-        font-size:35px; font-family:'Times New Roman'; color:##FF9633;}
-        </style>""", unsafe_allow_html=True)
     st.markdown('Upload your Image here')
 
 with col2:
